@@ -23,6 +23,4 @@ You can use the `Sample - Superstore.xlsx` file to conduct further analysis on s
 
 The analysis in the `Superstore_Sales_Optimization.docx` can guide you in identifying key areas for improvement and growth based on the data.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
